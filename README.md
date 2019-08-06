@@ -60,5 +60,5 @@ You can find recent package and installation guides here:
 
 Also we use **Pandas** library in notebook to print out data in table
 
-Project can be run on AWS and EMR cluster with PySpark preinstalled.
+Project can be run on AWS and EMR cluster with PySpark preinstalled. We used notebook on EMR in order to explore and validate data to write accurate script (etl.py)
 In order to avoid billing for using cluster resources Terminate cluster from AWS console.
