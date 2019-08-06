@@ -56,7 +56,7 @@ This project can be run locally with  installed Anaconda and PySpark.
 You can find recent package and installation guides here:
 
 - <a href="https://www.anaconda.com/distribution/">Anaconda for Python</a>
-- <a href="https://spark.apache.org/downloads.html>Apache Spark</a>
+- <a href="https://spark.apache.org/downloads.html">Apache Spark</a>
 
 Also we use **Pandas** library in notebook to print out data in table
 
